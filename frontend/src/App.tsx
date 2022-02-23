@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-      <h1> Começando </h1>
+      <h1 className="text-primary"> Começando </h1>
     </div>
   );
 }
