@@ -10,6 +10,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
+              {" "}
               Alan de Souza
             </a>
           </p>
